@@ -1,6 +1,6 @@
 https://github.com/siddhu0721/SummerProjectTask/assets/153012124/2149243a-9899-4246-b048-db38a46b0c7d
 
-This program is made for Sports Facility Management in which I made a class Facility which contains methods to book, cancel, check availability and check status of slots. then a second class(Facilities) is made which basically stores all the facility and have methods which initializes the method of Facility class.
+This program is made for Sports Facility Management in which I made a class Facility which contains methods to book, cancel, check availability and check status of slots. Then a second class(Facilities) is made which basically stores all the facility and have methods which prompt the method of Facility class.
 
 Add facility needs facility name and facility capacity, then create a object by this and add it to the facilities object.
 Book method needs facility name and roll no. to book slots and stores slot no. which is booked along with the roll no.
